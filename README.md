@@ -33,14 +33,14 @@ It is fully responsive and works seamlessly across mobile and desktop devices.
    git clone https://github.com/your-username/SCT_WD_1.git
 2. Navigate into the project folder:
 
-cd SCT_WD_1
+- cd  SCT_WD_1
 
 
-Open the project in your code editor (e.g., VS Code).
+- Open the project in your code editor (e.g., VS Code).
 
-Run the project:
+3. Run the project:
 
-Simply open index.html in your browser and then deployment using netlify
+  Simply open index.html in your browser and then deployment using netlify
 
 
 ## Ouput Demo Video:
