@@ -52,5 +52,5 @@ https://github.com/user-attachments/assets/3e291b4d-3585-4b08-b2df-ad12cc9fd26a
 
 Using netlify 
 
-🖇️  https://68bdaf63d24ad9645a4fded2--responsivewebp.netlify.app/#pricing
+🖇️  https://68bdaf63d24ad9645a4fded2--responsivewebp.netlify.app/
 
