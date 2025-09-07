@@ -1,12 +1,10 @@
 # SCT_WD_1
 Responsive landing page
 
-# Smartwatch Landing Page ⌚
-
 ## 📌 Overview
-This is a **responsive e-commerce landing page** created as part of my Web Development Internship (Task 1).  
+This is a **responsive landing page** created as part of my Web Development Internship (Task 1).  
 The landing page showcases a modern smartwatch with key features, pricing, and a contact section.  
-It is fully responsive and works seamlessly across mobile, tablet, and desktop devices.
+It is fully responsive and works seamlessly across mobile and desktop devices.
 
 ---
 
@@ -24,9 +22,8 @@ It is fully responsive and works seamlessly across mobile, tablet, and desktop d
 ## 🛠️ Technologies Used
 - **HTML5** – structure  
 - **CSS3** – styling & responsiveness  
-- **JavaScript (Vanilla JS)** – navbar scroll effect  
+- **JavaScript** – navbar scroll effect  
 
-*(Optional: If you build in React, you can update this section with React, Tailwind CSS, etc.)*
 
 ---
 
@@ -43,9 +40,7 @@ Open the project in your code editor (e.g., VS Code).
 
 Run the project:
 
-Simply open index.html in your browser.
-
-(For React.js project → run npm install && npm start)
+Simply open index.html in your browser and then deployment using netlify
 
 
 ## Ouput Demo Video:
@@ -53,5 +48,9 @@ Simply open index.html in your browser.
 
 https://github.com/user-attachments/assets/3e291b4d-3585-4b08-b2df-ad12cc9fd26a
 
+## Deployment:
 
+Using netlify 
+
+🖇️  https://68bdaf63d24ad9645a4fded2--responsivewebp.netlify.app/#pricing
 
