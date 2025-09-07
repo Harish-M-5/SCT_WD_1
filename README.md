@@ -1,14 +1,14 @@
 # SCT_WD_1
 Responsive landing page
 
-## 📌 Overview
+## 📌 Overview:
 This is a **responsive landing page** created as part of my Web Development Internship (Task 1).  
 The landing page showcases a modern smartwatch with key features, pricing, and a contact section.  
 It is fully responsive and works seamlessly across mobile and desktop devices.
 
 ---
 
-## 🚀 Features
+## 🚀 Features:
 - Sticky **navigation bar** (changes color on scroll)  
 - **Responsive design** for all screen sizes  
 - **Hero section** with smartwatch image and "Buy Now" button  
@@ -19,7 +19,7 @@ It is fully responsive and works seamlessly across mobile and desktop devices.
 
 ---
 
-## 🛠️ Technologies Used
+## 🛠️ Technologies Used:
 - **HTML5** – structure  
 - **CSS3** – styling & responsiveness  
 - **JavaScript** – navbar scroll effect  
@@ -27,7 +27,7 @@ It is fully responsive and works seamlessly across mobile and desktop devices.
 
 ---
 
-## ⚙️ Installation Process
+## ⚙️ Installation Process:
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/SCT_WD_1.git
@@ -43,12 +43,12 @@ It is fully responsive and works seamlessly across mobile and desktop devices.
   Simply open index.html in your browser and then deployment using netlify
 
 
-## Ouput Demo Video:
+## 🎥 Output Demo Video:
 
 
 https://github.com/user-attachments/assets/3e291b4d-3585-4b08-b2df-ad12cc9fd26a
 
-## Deployment:
+## ☁️ Deployment:
 
 Using netlify 
 
